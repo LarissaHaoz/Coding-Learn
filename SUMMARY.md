@@ -1,9 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-
-## 目录
-
 * [前言](mu-lu/qian-yan.md)
 * [Java 简介](mu-lu/java-jian-jie.md)
 * [Java 代码规范](mu-lu/java-dai-ma-gui-fan.md)
