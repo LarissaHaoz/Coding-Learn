@@ -1,6 +1,5 @@
 # Table of contents
 
-* [前言](mu-lu/qian-yan.md)
 * [Java 简介](mu-lu/java-jian-jie.md)
 * [Java 代码规范](mu-lu/java-dai-ma-gui-fan.md)
 * [Java 的数据类型](mu-lu/java-de-shu-ju-lei-xing.md)
