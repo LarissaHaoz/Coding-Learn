@@ -7,6 +7,6 @@
 * [类、方法](lei-fang-fa.md)
 * [控制流程](kong-zhi-liu-cheng.md)
 * [数组和集合](shu-zu-he-ji-he.md)
-* [抽象类和接口](shu-zu-he-ji-he.md)
-* [异常处理](shu-zu-he-ji-he.md)
+* [抽象类和接口](shu-zu-he-ji-he-1.md)
+* [异常处理](shu-zu-he-ji-he-2.md)
 
