@@ -9,6 +9,8 @@
     ![](https://upload-images.jianshu.io/upload_images/4334738-db075e7cd25109a7.png?imageMogr2/auto-orient/strip|imageView2/2/w/840)
 * 沟通的主体变成人和计算机
 
+## 
+
 ### Java 名字的由来
 
 Java 是印度尼西亚「爪哇岛」的英文名称，因盛产咖啡而闻名
