@@ -9,25 +9,15 @@
     ![](https://upload-images.jianshu.io/upload_images/4334738-db075e7cd25109a7.png?imageMogr2/auto-orient/strip|imageView2/2/w/840)
 * 沟通的主体变成人和计算机
 
-## 
-
-### Java 名字的由来
+## Java 名字的由来
 
 Java 是印度尼西亚「爪哇岛」的英文名称，因盛产咖啡而闻名
 
-![](https://upload-images.jianshu.io/upload_images/4334738-a6af2b84c2b57c8c.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
-
-## 
-
-### Java 的版本历史
+## Java 的版本历史
 
 Java 是由 Sun 公司于 1995 年 5 月推出的「面向对象」程序设计语言
 
-## 
-
-![](https://upload-images.jianshu.io/upload_images/4334738-9788c5792dacfcd1.png?imageMogr2/auto-orient/strip|imageView2/2/w/360)
-
-### Java 中的一些术语
+## Java 中的一些术语
 
 | 名字 | 含义 |
 | :--- | :--- |
