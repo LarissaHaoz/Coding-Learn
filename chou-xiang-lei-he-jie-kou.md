@@ -42,9 +42,9 @@
 * 接口声明的属性默认为 public static final 的
 * 接口中只能定义抽象方法，而且这些方法都是默认为 public 的
 
-**同步和异步**
+### **同步和异步**
 
-**接口回调**
+### **接口回调**
 
 ```text
   public interface GoHomeCallback {
