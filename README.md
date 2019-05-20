@@ -16,7 +16,7 @@ PS：这里贴上幕布的协作连接：[https://mubu.com/colla/2ggvCCrQff](htt
 
 Android 部分，是在 Java 语言的基础上进行拓展，通过 Java 和 XML 来开发 Android App，并在学 Android 开发的过程中，穿插一些 Android 相关的有趣的知识，如：
 
-* Android 的版本历史（通过字母表的顺序和事物来命名）
+* Android 的版本历史（通过字母表的顺序和食物来命名）
 * Android 的系统权限
 * Android App 的各种现象
 
